@@ -2,3 +2,6 @@ DSA PYTHON HACKER RANK
 
 Level Easy 
 Q1>
+
+
+Q2>
